@@ -1,6 +1,8 @@
 # Name : Subham Subhasis Sahoo
 # Entry No: 2020CSB1317
 
+""" A classification of the Fashion - MNIST dataset using Bag of Visual words technique with K Means clustering. """
+
 """ Importing Libraries """
 
 from sklearn.metrics import classification_report
